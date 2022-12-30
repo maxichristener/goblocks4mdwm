@@ -2,7 +2,7 @@
 
 Una barra simple, modular, que muestra la fecha, el volumen y el clima. Se installa con make.
 
-- La barra de estado utiliza un script para mostrar el volumen. Se debe copiar a $PATH el archivo commandmodules/volume. Se utiliza con ALSA.
+- La barra de estado utiliza un script para mostrar el volumen (para ALSA). Se debe copiar a $PATH el archivo commandmodules/volume.
 - En una ciudad distinta a Corrientes se tiene que cambiar el goblocks.json para adecuar el pronóstico de wttr.in a la ubicación actual.
 
 ### Config properties
